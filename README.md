@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/toyota_logo.png" alt="Toyota logo" width="180">
+  <img src="toyota_logo.png" alt="Toyota logo" width="180">
 </p>
 
 <h1 align="center">Toyota Car Sales Analytics</h1>
