@@ -17,7 +17,7 @@
 
 > **Disclaimer:** This project uses synthetic educational data and is not affiliated with Toyota Motor Corporation. The Toyota mark is included only for portfolio identification. The vehicle hero below is an AI-generated project visual, not an official product photograph.
 
-![Toyota Tundra — highest-selling model in the dataset](assets/toyota_tundra_hero.png)
+![Toyota Tundra — highest-selling model in the dataset](toyota_tundra_hero.png)
 
 ## Project overview
 
