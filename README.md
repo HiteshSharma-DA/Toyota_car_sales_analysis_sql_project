@@ -19,6 +19,8 @@
 
 ![Toyota Tundra — highest-selling model in the dataset](toyota_tundra_hero.png)
 
+[Toyota Tundra — highest-selling model]
+
 ## Project overview
 
 This project combines **MySQL** and **Python** to analyse a normalised Toyota car-sales database containing **60,000+ synthetic records** across sales, customers, models, dealerships, regions, employees, inventory, and after-sales service.
