@@ -36,7 +36,8 @@ The SQL component builds and queries the relational database using joins, CTEs, 
 
 ## Executive KPI dashboard
 
-![Toyota car sales KPI dashboard](assets/kpi_dashboard.png)
+![Toyota car sales KPI dashboard](kpi_dashboard.png)
+
 
 | KPI | Result |
 |---|---:|
